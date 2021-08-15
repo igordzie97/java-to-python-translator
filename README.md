@@ -15,6 +15,7 @@ ANTLR został dołączony w postaci Maven plugin co pozwala w wygodny sposób sk
 Wykorzystany został gotowy pliku gramatyki Javy w wersji 8, który znajdował się w głównym repozytorium projektu ANTLR – plik Java8.g4.
 
 Za pośrednictwem komendy `mvn package` zostaje wygenerowanych kilka plików na podstawie pliku gramatyki Java8.g4.
+
 <img width="150" alt="Screenshot 2021-08-15 at 13 28 31" src="https://user-images.githubusercontent.com/34041060/129477105-caf1efd2-3b4b-4453-8dde-17374259b51e.png">
 
 - **Java8Lexer.java** – zawiera implementację lexera dla gramatyki. Są to reguły, które przekształcają słowa wejściowe na tokeny. Zapisane są w gramatyce w postaci dużych liter lub jako symbole w apostrofach.
