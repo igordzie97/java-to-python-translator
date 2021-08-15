@@ -1,6 +1,5 @@
 # Java to Python translator
 
-## Cel
 Celem projektu była realizacja translatora podzbioru języka Java do języka Python.
 Podczas implementacji należało skorzystać z generatora skanerów oraz parserów, w zależności
 od wybranego języka programowania do implementacji translatora.
