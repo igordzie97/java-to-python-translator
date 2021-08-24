@@ -1,4 +1,4 @@
-# Java to Python translator
+# Java to Python Translator
 
 ## Spis Treści
 1. [Opis](#opis)
