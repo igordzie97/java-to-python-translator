@@ -1,5 +1,14 @@
 # Java to Python translator
 
+## Spis Treści
+1. [Opis](#opis)
+2. [Stos technologiczny](#stos-technologiczny)
+3. [Określenie gramatyki, wygenerowanie lexera oraz parsera](#określenie-gramatyki-wygenerowanie-lexera-oraz-parsera)
+4. [Testy działania lexera oraz parsera](#testy-działania-lexera-oraz-parsera)
+5. [Opis działania programu](opis-działania-programu)
+
+## Opis
+
 Celem projektu była realizacja translatora podzbioru języka Java do języka Python.
 Podczas implementacji należało skorzystać z generatora skanerów oraz parserów, w zależności
 od wybranego języka programowania do implementacji translatora.
@@ -71,7 +80,7 @@ Wykorzystane narzędzie to również Testring, tak jak w przypadku Lexera. Komen
 
 <img width="1030" alt="Screen Shot 2021-08-15 at 15 48 24 PM" src="https://user-images.githubusercontent.com/34041060/129480738-4419946c-de09-4a1d-845b-5a93765413af.png">
 
-## Opis programu
+## Opis działaniu programu
 Sposób przechodzenia po drzewie opiera się na mechanizmie listenerów, które reagują na wydarzenia związane z przechodzeniem po drzewie syntaktycznym. Podstawowymi
 zdarzeniami są wejścia i wyjścia z danego typu węzła.
 
@@ -91,3 +100,6 @@ zdarzeniami są wejścia i wyjścia z danego typu węzła.
 ### Rezultat programu:
 <img width="1000" alt="Screen Shot 2021-08-15 at 17 34 49 PM" src="https://user-images.githubusercontent.com/34041060/129483921-ddb7ac2d-e893-412e-99c0-3a6d7b83d2f5.png">
 
+## Autorzy
+- Igor Dzierwa
+- Adrian Nędza
