@@ -55,7 +55,7 @@ Wykorzystane narzędzie to dostarczone przez ANTLR, Testring. Komenda przyjmuje 
 
 <img width="200" alt="Screenshot 2021-08-15 at 13 28 31" src="https://user-images.githubusercontent.com/34041060/129479784-88726368-f9ba-4fb6-9150-c612de53920d.png">
 
-W skład każdego tokenu wchodzi:
+**W skład każdego tokenu wchodzi:**
 1. Numer tokenu.
 2. Numer początkowego i końcowego znaku, z którego skłąda się token.
 3. Tekst z jakiego składa się token.
