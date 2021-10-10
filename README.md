@@ -138,7 +138,7 @@ public class ToBeTranslated {
 <img width="1000" alt="Screen Shot 2021-08-15 at 17 34 49 PM" src="https://user-images.githubusercontent.com/34041060/129483921-ddb7ac2d-e893-412e-99c0-3a6d7b83d2f5.png">
 
 ## Documentation
-[Translator documentation (in Polish)](https://github.com/igordzie97/java-to-python-translator/blob/main/documentation/SprawozdanieKompilatory.pdf)
+[Translator documentation (in Polish)](https://github.com/igordzie97/java-to-python-translator/blob/main/documentation/documentation.pdf)
 
 ## Authors
 - Igor Dzierwa
