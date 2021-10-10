@@ -33,7 +33,7 @@ ANTLR is attached using Maven plugin - it is the easiest way to set a project us
 - `Java8Listener.java, Java8BaseListener` – these files describe interface and class which allow to traverse within syntactic.
  
 ## Functional testing of Lexer and Parser
-Functional testing of Lexer and Parser is possible using TestRig (`org.antlr.v4.gui.TestRig`). To use this tool, ANTLR installation is essential.
+Functional testing of Lexer and Parser is possible using TestRig (*org.antlr.v4.gui.TestRig*). To use this tool, ANTLR installation is essential.
 
 ### Setting up
 1. Downloading ANTLR library: [antlr-4.9.2-complete.jar](https://www.antlr.org/download/antlr-4.9.2-complete.jar).
@@ -47,7 +47,8 @@ export CLASSPATH=".:$ANTLR_JAR:$CLASSPATH"
 alias antlr4="java -jar $ANTLR_JAR"
 alias grun="java org.antlr.v4.gui.TestRig"
 ```
-4. Compilation all .java classes: `javac Java8*.java`.
+4. Compilation all .java classes:  
+`javac Java8*.java`
 
 ### Lexer
 The command takes the following arguments:
